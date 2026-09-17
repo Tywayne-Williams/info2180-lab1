@@ -1,2 +1,2 @@
-# This is lab 1 for Tywayne Williamssss
+# This is lab 1 for Tywayne Williams
 
