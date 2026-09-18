@@ -35,4 +35,16 @@ p {
 footer {
     text-align: center;
     padding: 20px;
+
+main img {
+
+    width: 100%;
+    max-width: 60%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+
+}
+
+
 }
